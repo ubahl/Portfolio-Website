@@ -1,0 +1,89 @@
+body
+{
+	display: flex;
+	flex-flow: column;
+	font-family: sans-serif;
+	font-weight: 100;
+	line-height: 25px;
+	align-items: center;
+}
+
+h1
+{
+	line-height: 60px;
+	font-size: 50px;
+	font-weight: 100;
+	margin: 0px;
+	margin-bottom: 20px;
+}
+
+h2
+{
+	font-weight: 100;
+	min-width: 130px;
+	width: 20%;
+}
+
+li
+{
+	padding-bottom: 10px;
+}
+
+strong
+{
+	font-weight: 500;
+}
+
+ul
+{
+	width: 80%;
+}
+
+#accomplishments
+{
+	margin-right: 0px;
+}
+
+#introduction
+{
+	background: #e6e8ff;
+	border: 1px solid black;
+	display: flex;
+	flex-flow: column;
+	justify-content: space-between;
+	margin: 15px;
+	padding: 20px;
+	width: 20%;
+}
+
+#intro-text
+{
+	padding-top: 20px;
+}
+
+#top-information
+{
+	display: flex;
+	flex-flow: column;
+}
+
+#uma-img
+{
+
+}
+
+#website-information
+{
+	display: flex;
+	width: 80%;
+}
+
+.accomplishment-box
+{
+	background: #dbfdff;
+	border: 1px solid black;
+	display: flex;
+	font-family: sans-serif;
+	margin: 15px;
+	padding: 20px;
+}
