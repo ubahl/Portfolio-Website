@@ -67,11 +67,6 @@ ul
 	flex-flow: column;
 }
 
-#uma-img
-{
-
-}
-
 #website-information
 {
 	display: flex;
@@ -87,3 +82,4 @@ ul
 	margin: 15px;
 	padding: 20px;
 }
+
