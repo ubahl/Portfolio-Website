@@ -1,5 +1,6 @@
 body
 {
+	background: #b9d9eb;
 	display: flex;
 	flex-flow: column;
 	font-family: sans-serif;
@@ -46,14 +47,15 @@ ul
 
 #introduction
 {
-	background: #e6e8ff;
+	/*background: #e6e8ff;*/
+	background: rgba(250, 249, 246, 0.9);
 	border: 1px solid black;
 	display: flex;
 	flex-flow: column;
 	justify-content: space-between;
 	margin: 15px;
 	padding: 20px;
-	width: 20%;
+	width: 33%;
 }
 
 #intro-text
@@ -82,7 +84,7 @@ ul
 
 .accomplishment-box
 {
-	background: #dbfdff;
+	background: rgba(250, 249, 246, 0.9);
 	border: 1px solid black;
 	display: flex;
 	font-family: sans-serif;
